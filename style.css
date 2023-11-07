@@ -312,6 +312,9 @@ i {
   .produtos3 {
     flex-direction: column;
   }
+  .produtos4 {
+    flex-direction: column;
+  }
   .produtos1 img {
     max-width: 440px;
   }
@@ -319,6 +322,9 @@ i {
     max-width: 440px;
   }
   .produtos3 img {
+    max-width: 440px;
+  }
+  .produtos4 img {
     max-width: 440px;
   }
 }
